@@ -1,5 +1,5 @@
 # git-exercise
-A basic guide to using git and github will appear here. With a excercise to do for yourself.
+A basic guide to using git and github will appear here. With an excercise to do for yourself.
 
 Should cover the basics:
 
